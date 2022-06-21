@@ -49,22 +49,12 @@ Original Cropped eyes.
 
 # Mouth Detection 
 
-![image](https://user-images.githubusercontent.com/25412736/174871561-a3cf364c-7d3e-4bde-ad7f-7f1078e42aa3.png)
-Region of Mouth to be Extracted
+![image](https://user-images.githubusercontent.com/25412736/174871561-a3cf364c-7d3e-4bde-ad7f-7f1078e42aa3.png)![image](https://user-images.githubusercontent.com/25412736/174871637-dfbf6c05-59f7-40a0-b579-14b1ba2550a4.png)
+(a) Region of Mouth to be Extracted (b) Cropped Image Region.
 
-![image](https://user-images.githubusercontent.com/25412736/174871637-dfbf6c05-59f7-40a0-b579-14b1ba2550a4.png)
-Cropped Image Region.
+![image](https://user-images.githubusercontent.com/25412736/174871824-52b3bc67-acd0-4679-abf1-5e1e03c50603.png)![image](https://user-images.githubusercontent.com/25412736/174871835-d8adab19-e0d4-4366-9b09-4400ae857f80.png)![image](https://user-images.githubusercontent.com/25412736/174871843-070a8b06-d5e1-4647-82ed-fd6f4f39b3ab.png)
 
-![image](https://user-images.githubusercontent.com/25412736/174871824-52b3bc67-acd0-4679-abf1-5e1e03c50603.png)
-Mouth region converted to YCbCr colour space.
-
-![image](https://user-images.githubusercontent.com/25412736/174871835-d8adab19-e0d4-4366-9b09-4400ae857f80.png)
-After converting to grayscale image
-
-![image](https://user-images.githubusercontent.com/25412736/174871843-070a8b06-d5e1-4647-82ed-fd6f4f39b3ab.png)
-After converting to binary image
-
-
+(a) Mouth region converted to YCbCr colour space.(b) After converting to grayscale image. (c)After converting to binary image
 
 ![image](https://user-images.githubusercontent.com/25412736/174872021-0f295c0c-8409-4dfa-8288-f6f65eb3f0e8.png)![image](https://user-images.githubusercontent.com/25412736/174872038-269c6d70-a38f-4140-a3ec-79f418eac4ab.png)
 
