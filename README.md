@@ -25,6 +25,7 @@ The whole system is implemented on MATLAB.
 # Eye Detection
 
 ![image](https://user-images.githubusercontent.com/25412736/174871038-99bbcd25-9c00-4a8f-b645-5005fcf4059d.png)![image](https://user-images.githubusercontent.com/25412736/174871042-d7d9e9be-7fd6-430e-b5ea-105c4394754e.png)
+
 (a) Eye Region After the Calculations (b) Cropped Eye Region.
 
 ![image](https://user-images.githubusercontent.com/25412736/174871132-65e7a6b2-d9fa-4f43-b2ac-bf1c4a9bc627.png)![image](https://user-images.githubusercontent.com/25412736/174871139-362f304c-768e-4424-aaf9-72b1f0ff4165.png)![image](https://user-images.githubusercontent.com/25412736/174871149-69feeb80-ba1a-4a39-aee8-a819f9102eb5.png)
