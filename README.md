@@ -1,4 +1,4 @@
-# Intelligent Alarm System of Driver Fatigue, based on Video Sequences in Matlab
+# Driver Drowsiness Detection using Computer Vision in Matlab
 
 1. Each year hundreds of people lose their lives due to traffic accidents around the world. Unfortunately, Iran ranks first in the world in terms of road fatalities and each year approximately thirty thousands of fellow countrymen lose their lives in these events.
 2. In a study by the National Transportation Research Institute (NTSRB) in which 107 random car accidents had been selected, fatigue accounted for 58% of the all accidents. A main cause of fatigue is sleeplessness or insomnia.
