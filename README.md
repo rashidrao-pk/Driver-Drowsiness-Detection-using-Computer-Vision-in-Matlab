@@ -16,7 +16,8 @@ The whole system is implemented on MATLAB.
 ## Working Screenshots:
 
 ![image](https://user-images.githubusercontent.com/25412736/174870879-3e3b7a6c-2365-46b8-8c9f-c03e46f8cfa1.png) ![image](https://user-images.githubusercontent.com/25412736/174870886-36054275-a730-42b4-bfff-b7b17ebf7e6c.png)
-Face Region after Voila-Jones algorithm is applied. Cropped face region.
+
+<center>Face Region after Voila-Jones algorithm is applied. Cropped face region. </center>
 
 # Eye Detection
 
