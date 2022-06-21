@@ -5,9 +5,13 @@
 3. Ad hoc networks were the first systems to develop the automatic navigation in cars. A noticeable weakness of these systems is that their responses to environmental changes is not real time.
 4. It is especially important in driving where time is a critical factor in driver's decision. On the other hand, another method to check the driver fatigue is monitoring the physical condition and facial expressions of the drivers, which wireless sensor networks are unable to process and transmit these information with adequate precision.
 
-Model :
+## Model :
 
 ![image](https://user-images.githubusercontent.com/25412736/174870729-32239010-25b4-4b4d-a2e2-5a552e020ab7.png)
+
+## GUI:
+
+![driver ](https://user-images.githubusercontent.com/25412736/174874688-b422977e-281a-4d6d-b397-d95902593f72.png)
 
 ## Software Requirments:
 
@@ -89,4 +93,26 @@ I' = rgb2hsv (I);
 ![image](https://user-images.githubusercontent.com/25412736/174872791-0639de87-8e79-40fa-ad13-191184b0f9e6.png)![image](https://user-images.githubusercontent.com/25412736/174872784-64aa5375-019c-4aaa-8d2b-69be33fd67d5.png)![image](https://user-images.githubusercontent.com/25412736/174872809-14f540d8-149a-43da-b42c-bd4299090718.png)![image](https://user-images.githubusercontent.com/25412736/174872805-9472eaf8-7be2-4984-82cc-5bfe9020aef6.png)![image](https://user-images.githubusercontent.com/25412736/174872816-5ee9a5d5-a8ab-4146-8b01-a80339dd87db.png)![image](https://user-images.githubusercontent.com/25412736/174872830-2c064f4f-e203-46bf-afdd-a328b2852066.png)
 
 
+
+## Decision Making
+1. The first frame is used for learning. All the results are calculated taking first frame as ideal frame.
+### Eyes Closed
+When eyes are closed, the number of black pixels in binary image decreases considerably. If eyes are found closed for atleast 2 consecutive seconds (i.e. 2 * 16 = 32 frames, considering 16 frames per second), then the warning will be generated.
+
+### Mouth Open
+When mouth is open, the resulting black pixels in binary image can be considerably larger or smaller than the ideal frame. The difference can be more than 6% of the black pixels in ideal frame.If mouth is found open for atleast 2 consecutive seconds (i.e. 2 * 16 = 32 frames, considering 16 frames per second), it means that the person is yawning and in response the warning will be generated.
+### Head Lowering
+If the head is lowered, or turned around the number of skin pixels considerably decrease as compared to the ideal frame.If head is found lowered or found turned in other directions for atleast 2 consecutive seconds (i.e. 2 * 16 = 32 frames, considering 16 frames per second), it means that the person is vulnerable for accident and in response the warning will be generated.
+
+## Limitations of the algorithm.
+
+1. Objects in the video, should be uniformly illuminated, else results can differ.
+2. Changing distance of person from the camera can cause problems.
+3. Head lowering can give abrupt results in case of bald person.
+4. The algorithm doesn’t work for the people sleeping with eyes open.
+5. Face symmetry calculations are not same for everyone. The calculations considered are true for most of the people.
+
+## Accuracy
+
+The algorithm gives correct answer on about 25 videos that makes it about 83.33% accurate
 
