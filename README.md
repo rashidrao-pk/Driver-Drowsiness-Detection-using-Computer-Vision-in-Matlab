@@ -9,17 +9,14 @@ Model :
 
 ![image](https://user-images.githubusercontent.com/25412736/174870729-32239010-25b4-4b4d-a2e2-5a552e020ab7.png)
 
-Software Requirments:
+## Software Requirments:
 
 The whole system is implemented on MATLAB.
 
-Working Screenshots:
+## Working Screenshots:
 
-![image](https://user-images.githubusercontent.com/25412736/174870879-3e3b7a6c-2365-46b8-8c9f-c03e46f8cfa1.png)
-Face Region after Voila-Jones algorithm is applied.
-
-![image](https://user-images.githubusercontent.com/25412736/174870886-36054275-a730-42b4-bfff-b7b17ebf7e6c.png)
-Cropped face region.
+![image](https://user-images.githubusercontent.com/25412736/174870879-3e3b7a6c-2365-46b8-8c9f-c03e46f8cfa1.png) ![image](https://user-images.githubusercontent.com/25412736/174870886-36054275-a730-42b4-bfff-b7b17ebf7e6c.png)
+Face Region after Voila-Jones algorithm is applied. Cropped face region.
 
 # Eye Detection
 
