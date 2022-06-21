@@ -16,8 +16,7 @@ The whole system is implemented on MATLAB.
 ## Working Screenshots:
 
 ![image](https://user-images.githubusercontent.com/25412736/174870879-3e3b7a6c-2365-46b8-8c9f-c03e46f8cfa1.png) ![image](https://user-images.githubusercontent.com/25412736/174870886-36054275-a730-42b4-bfff-b7b17ebf7e6c.png)
-
-<center>Face Region after Voila-Jones algorithm is applied. Cropped face region. </center>
+(a) Face Region after Voila-Jones algorithm is applied. (b) Cropped face region.
 
 # Eye Detection
 
@@ -67,23 +66,13 @@ After converting to binary image
 
 
 
-![image](https://user-images.githubusercontent.com/25412736/174872021-0f295c0c-8409-4dfa-8288-f6f65eb3f0e8.png)
-
-![image](https://user-images.githubusercontent.com/25412736/174872038-269c6d70-a38f-4140-a3ec-79f418eac4ab.png)
+![image](https://user-images.githubusercontent.com/25412736/174872021-0f295c0c-8409-4dfa-8288-f6f65eb3f0e8.png)![image](https://user-images.githubusercontent.com/25412736/174872038-269c6d70-a38f-4140-a3ec-79f418eac4ab.png)
 
 
-![image](https://user-images.githubusercontent.com/25412736/174872041-c9b61eb0-6a27-4d35-9b86-d97b9bdfdf07.png)
+![image](https://user-images.githubusercontent.com/25412736/174872041-c9b61eb0-6a27-4d35-9b86-d97b9bdfdf07.png)![image](https://user-images.githubusercontent.com/25412736/174872054-1e9ed3df-e4a4-4fca-a4a4-9aba25d37947.png)
 
 
-![image](https://user-images.githubusercontent.com/25412736/174872054-1e9ed3df-e4a4-4fca-a4a4-9aba25d37947.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/25412736/174872060-221537c5-5562-4cef-a72c-a99a48d97a4b.png)
-
-
-![image](https://user-images.githubusercontent.com/25412736/174872068-1ffc9e00-ae3c-4a40-a389-ee96f9bb9a58.png)
+![image](https://user-images.githubusercontent.com/25412736/174872060-221537c5-5562-4cef-a72c-a99a48d97a4b.png)![image](https://user-images.githubusercontent.com/25412736/174872068-1ffc9e00-ae3c-4a40-a389-ee96f9bb9a58.png)
 
 
 # Skin Segmentation
