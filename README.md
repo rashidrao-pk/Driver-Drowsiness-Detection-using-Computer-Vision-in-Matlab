@@ -82,27 +82,11 @@ Cr =  (0.439 * Red)  - (0.368 * Green)  – (0.071 * Blue) + 128;
 I' = rgb2hsv (I);
 
 
-![image](https://user-images.githubusercontent.com/25412736/174872656-8d075644-7d69-4070-ac6b-07fb20652aeb.png)
-Input Image
-![image](https://user-images.githubusercontent.com/25412736/174872683-493f55d6-3190-4b5e-a32f-787f10eeae27.png)
-Segmented Image from Input Image
+![image](https://user-images.githubusercontent.com/25412736/174872656-8d075644-7d69-4070-ac6b-07fb20652aeb.png)![image](https://user-images.githubusercontent.com/25412736/174872683-493f55d6-3190-4b5e-a32f-787f10eeae27.png)
+(a) Input Image (b) Segmented Image from Input Image
 
 
-![image](https://user-images.githubusercontent.com/25412736/174872791-0639de87-8e79-40fa-ad13-191184b0f9e6.png)
-
-![image](https://user-images.githubusercontent.com/25412736/174872784-64aa5375-019c-4aaa-8d2b-69be33fd67d5.png)
-
-
-![image](https://user-images.githubusercontent.com/25412736/174872809-14f540d8-149a-43da-b42c-bd4299090718.png)
-
-
-![image](https://user-images.githubusercontent.com/25412736/174872805-9472eaf8-7be2-4984-82cc-5bfe9020aef6.png)
-
-
-![image](https://user-images.githubusercontent.com/25412736/174872816-5ee9a5d5-a8ab-4146-8b01-a80339dd87db.png)
-
-
-![image](https://user-images.githubusercontent.com/25412736/174872830-2c064f4f-e203-46bf-afdd-a328b2852066.png)
+![image](https://user-images.githubusercontent.com/25412736/174872791-0639de87-8e79-40fa-ad13-191184b0f9e6.png)![image](https://user-images.githubusercontent.com/25412736/174872784-64aa5375-019c-4aaa-8d2b-69be33fd67d5.png)![image](https://user-images.githubusercontent.com/25412736/174872809-14f540d8-149a-43da-b42c-bd4299090718.png)![image](https://user-images.githubusercontent.com/25412736/174872805-9472eaf8-7be2-4984-82cc-5bfe9020aef6.png)![image](https://user-images.githubusercontent.com/25412736/174872816-5ee9a5d5-a8ab-4146-8b01-a80339dd87db.png)![image](https://user-images.githubusercontent.com/25412736/174872830-2c064f4f-e203-46bf-afdd-a328b2852066.png)
 
 
 
