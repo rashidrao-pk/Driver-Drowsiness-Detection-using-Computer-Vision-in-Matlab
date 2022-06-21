@@ -24,32 +24,19 @@ The whole system is implemented on MATLAB.
 
 # Eye Detection
 
-![image](https://user-images.githubusercontent.com/25412736/174871038-99bbcd25-9c00-4a8f-b645-5005fcf4059d.png)
-Eye Region After the Calculations
+![image](https://user-images.githubusercontent.com/25412736/174871038-99bbcd25-9c00-4a8f-b645-5005fcf4059d.png)![image](https://user-images.githubusercontent.com/25412736/174871042-d7d9e9be-7fd6-430e-b5ea-105c4394754e.png)
+(a) Eye Region After the Calculations (b) Cropped Eye Region.
 
-![image](https://user-images.githubusercontent.com/25412736/174871042-d7d9e9be-7fd6-430e-b5ea-105c4394754e.png)
-Cropped Eye Region.
+![image](https://user-images.githubusercontent.com/25412736/174871132-65e7a6b2-d9fa-4f43-b2ac-bf1c4a9bc627.png)![image](https://user-images.githubusercontent.com/25412736/174871139-362f304c-768e-4424-aaf9-72b1f0ff4165.png)![image](https://user-images.githubusercontent.com/25412736/174871149-69feeb80-ba1a-4a39-aee8-a819f9102eb5.png)
 
-![image](https://user-images.githubusercontent.com/25412736/174871132-65e7a6b2-d9fa-4f43-b2ac-bf1c4a9bc627.png)
-Image after converting to YCbCr
+(a) Image after converting to YCbCr
+(b) Image after converting to grayscale
+(c) Image after converting to binary image
 
-![image](https://user-images.githubusercontent.com/25412736/174871139-362f304c-768e-4424-aaf9-72b1f0ff4165.png)
-Image after converting to grayscale
+![image](https://user-images.githubusercontent.com/25412736/174871397-87bf085e-dc1d-4540-ae61-fb5ef7d858da.png)![image](https://user-images.githubusercontent.com/25412736/174871462-6d8a21a2-708d-444d-af13-cb147fe02231.png)
 
-![image](https://user-images.githubusercontent.com/25412736/174871149-69feeb80-ba1a-4a39-aee8-a819f9102eb5.png)
-Image after converting to binary image
-
-
-![image](https://user-images.githubusercontent.com/25412736/174871397-87bf085e-dc1d-4540-ae61-fb5ef7d858da.png)
-![image](https://user-images.githubusercontent.com/25412736/174871462-6d8a21a2-708d-444d-af13-cb147fe02231.png)
-
-
-![image](https://user-images.githubusercontent.com/25412736/174871404-fb4ef093-ac67-43fc-a2b3-0a8636a7f5f1.png)
-![image](https://user-images.githubusercontent.com/25412736/174871478-59775de8-f9d1-49bd-9aa1-8f44103fc9db.png)
-
+![image](https://user-images.githubusercontent.com/25412736/174871404-fb4ef093-ac67-43fc-a2b3-0a8636a7f5f1.png)![image](https://user-images.githubusercontent.com/25412736/174871478-59775de8-f9d1-49bd-9aa1-8f44103fc9db.png)
 Original Cropped eyes.
-
-
 
 # Mouth Detection 
 
