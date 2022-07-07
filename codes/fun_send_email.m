@@ -29,7 +29,7 @@ emailto='sidra.bscs3503@iiu.edu.pk';
 % =========================================================================
 %% YOU NEED TO TYPE EMAIL AND PASSWORDS of SMTP Account:
 mail = 'driverdrowsinessiiui@gmail.com';    %Your GMail email address
-password = 'DriverDrowsinessIIUI';          %Your GMail password
+password = '';          %Your GMail password
 % =========================================================================
 
 
